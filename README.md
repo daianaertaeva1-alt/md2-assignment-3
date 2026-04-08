@@ -41,7 +41,7 @@ Firestore security rules are configured to allow access only to authenticated us
 
 ## APK
 
-Google Drive link: (insert your APK link here)
+Google Drive link: https://drive.google.com/file/d/1qfJdCd2S-02030UcK1-2BRC-D9NuoCbV/view?usp=sharing 
 
 ## Demo
 
